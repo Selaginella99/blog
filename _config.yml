@@ -1,0 +1,22 @@
+title: Selaginella's blog
+description: To infinity and beyong
+
+url: http://miaozhu.li
+baseurl: "/blog"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+
+social:
+   github: Selaginella99
+   twitter: Selaginellav

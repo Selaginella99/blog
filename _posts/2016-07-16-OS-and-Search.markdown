@@ -1,15 +1,16 @@
 ---
 layout: post
-title: OS & Search
+title: 搭建简约系统 & 善用搜索工具
 categories: [ blog ]
 tags: [ tool, 效率 ]
-description: 搭建简约系统 & 善用搜索工具
+description: OS & Search
 ---
 
 # 搭建简约系统 & 善用搜索工具
 
+## 搭建简约系统 & 善用搜索工具
 
-## 简约版系统优势
+### 简约版系统优势
 - 简约
 - 安静
 - 稳定
@@ -18,7 +19,7 @@ description: 搭建简约系统 & 善用搜索工具
 
 注：尽可能**少**的工具，尽可能**多**的熟悉，如重装：从头开始
 
-## 最佳应用软件清单
+### 最佳应用软件清单
 - 存储类云盘：Dropbox
 - Termial 的替代： iTerm
 - 编辑器：TextMate & Sublime Text
@@ -29,7 +30,7 @@ description: 搭建简约系统 & 善用搜索工具
 - 笔记类应用：Evernote - 支持较多插件，使用方便; 也有推荐 [QQ邮箱记事本](http://likeahacker.kikidesign.cn/Simple-System-Note.html)和[为知/有道云笔记](https://euphemiaa.github.io/os-and-search-optimize/)
 
   
-## Alfred 使用说明
+### Alfred 使用说明
 - [Mac神软Alfred使用手册 1](http://wellsnake.com/jekyll/update/2014/06/15/001/)
 - [Mac神软Alfred使用手册 2](http://wellsnake.com/jekyll/update/2014/08/16/001/)
 
@@ -38,9 +39,9 @@ description: 搭建简约系统 & 善用搜索工具
 
 
 
-# 搜索工具的使用
+## 搜索工具的使用
 
-## 1. 关键词力求清晰明确地界定条件
+### 1. 关键词力求清晰明确地界定条件
 
 常用符号：
 
@@ -55,7 +56,7 @@ description: 搭建简约系统 & 善用搜索工具
 - `or` 关键词
 
 
-## 2. 输入框小技巧
+### 2. 输入框小技巧
 
 1. 货币换算 `1 euro in rmb`
 
@@ -68,13 +69,13 @@ description: 搭建简约系统 & 善用搜索工具
 5. Google 可做计算器
 
 
-## 3. 如何利用 google 添加自定义搜索
+### 3. 如何利用 google 添加自定义搜索
 
 网站 + tab 
 
 大致分类简述，就扩展程序设置部分可适当做特别说明。
 
-## 4. 高效搜索
+### 4. 高效搜索
 
 1. 关键词清晰界定条件
 2. google 的搜索语法
@@ -90,7 +91,7 @@ description: 搭建简约系统 & 善用搜索工具
   再次使用输入网址，tab 健 + omnibox 书签、收藏、搜索框、地址栏于一体
 4. chrome 拓展程序 ：evernote 、markdown here 等
 
-## 5. 熟悉 Chrome 快捷键
+### 5. 熟悉 Chrome 快捷键
 
 - 常用操作
   + 打开新窗口 `ctrl` + `n`
@@ -108,6 +109,6 @@ description: 搭建简约系统 & 善用搜索工具
   + 清空浏览数据 `ctrl` + `shift` + `delete`
 
 
-## 6. Chrome 插件推荐
+### 6. Chrome 插件推荐
 
 推荐阅读 Az 老师的博文: [Chrome 最佳扩展程序特辑](http://azeril.me/blog/The-Best-Chrome-Extensions.html)  
